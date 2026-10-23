@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Murilo Rufino</h1>
 <h3 align="center">Tenho 15 anos e estou cursando o 1 ano do ensino medio.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murilorufino15&label=Profile%20views&color=0e75b6&style=flat" alt="murilorufino15" /> </p>
-
 - 📚 Atualmente cursando **C#**
 
 - 📫 How to reach me **murilorufino89@gmail.com**
