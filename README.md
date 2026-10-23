@@ -18,6 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilorufino15&show_icons=true&locale=en" alt="murilorufino15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilorufino15&" alt="murilorufino15" /></p>
-
-![Snake animation](https://githubusercontent.com)
-
