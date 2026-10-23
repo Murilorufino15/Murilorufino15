@@ -19,7 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilorufino15&" alt="murilorufino15" /></p>
 
-## 🐍 Jogo da Cobrinha nas Contribuições
-
 ![Snake animation](https://githubusercontent.com)
 
